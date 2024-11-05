@@ -4,5 +4,8 @@
 ! Description:
 ! A personal list for annoyances.
 !
-! "Twitter" Filters
-x.com##a[href="/i/premium_sign_up"]
+
+##a[href="/i/premium_sign_up"]
+##.support-box
+##.follow
+##.author
