@@ -9,3 +9,4 @@
 ##.support-box
 ##.follow
 ##.author
+##.commentlist]
